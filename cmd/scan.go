@@ -1,4 +1,5 @@
 package cmd
+phoneinfoga scan -n 17159190335
 
 import (
 	"errors"
